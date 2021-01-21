@@ -1,0 +1,41 @@
+[
+   {
+      "sections":[
+         {
+            "name":"Interstellar(星際效應)",
+            "picturesImageName":[
+               "star1",
+               "star3",
+               "star4",
+               "star5"
+            ]
+         }
+
+      ],
+      "imageName":"star2",
+      "name":"Interstellar(星際效應)",
+      "description":"In 2035, the crew of the Ares III mission to Mars is exploring Acidalia Planitia on Martian solar day (sol) 18 of their 31-sol expedition. A severe dust storm threatens to topple their Mars Ascent Vehicle (MAV). The mission is scrubbed, but as the crew evacuates, astronaut Mark Watney is struck by debris and lost in the storm. The telemetry from his suit's biomonitor is damaged and Watney is wrongly presumed dead. With the MAV on the verge of toppling, the surviving crew takes off for their orbiting vessel, the Hermes.",
+      "shortDescription":"Director:Christopher Nolan\nWriters: Jonathan Nolan, Christopher Nolan\nStars: Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+   },
+   {
+      "sections":[
+         {
+            "name":"The Martian",
+            "picturesImageName":[
+               "t1",
+               "t4",
+               "t3",
+               "t5"
+            ]
+         }
+
+      ],
+      "imageName":"t2",
+      "name":"The Martian",
+      "description":"Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life. Written by ahmetkozan",
+      "shortDescription":"Director:Ridley Scott\nWriters: Drew Goddard\nStars: Matt Damon"
+   }
+   
+  
+  
+]
